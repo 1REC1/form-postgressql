@@ -1,0 +1,64 @@
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\bin\Debug\net8.0-windows\proyectofinalcruds.exe
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\bin\Debug\net8.0-windows\proyectofinalcruds.deps.json
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\bin\Debug\net8.0-windows\proyectofinalcruds.runtimeconfig.json
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\bin\Debug\net8.0-windows\proyectofinalcruds.dll
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\bin\Debug\net8.0-windows\proyectofinalcruds.pdb
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Form1.resources
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Menu.resources
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Properties.Resources.resources
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.RegistrarUsuario.resources
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.csproj.GenerateResource.cache
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.AssemblyInfoInputs.cache
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.AssemblyInfo.cs
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.csproj.CoreCompileInputs.cache
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.dll
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\refint\proyectofinalcruds.dll
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.pdb
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.genruntimeconfig.cache
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\ref\proyectofinalcruds.dll
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Diagnósticos.resources
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Exámenes_medicos.resources
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Habitaciones.resources
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Medicamentos.resources
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Medicos.resources
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Métodos_de_pago.resources
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Pacientes.resources
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Personal_de_apoyo.resources
+C:\Users\Rosendo Ramos\source\repos\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Tratamientos.resources
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\bin\Debug\net8.0-windows\proyectofinalcruds.exe
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\bin\Debug\net8.0-windows\proyectofinalcruds.deps.json
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\bin\Debug\net8.0-windows\proyectofinalcruds.runtimeconfig.json
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\bin\Debug\net8.0-windows\proyectofinalcruds.dll
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\bin\Debug\net8.0-windows\proyectofinalcruds.pdb
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Diagnósticos.resources
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Exámenes_medicos.resources
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Form1.resources
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Habitaciones.resources
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Medicamentos.resources
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Medicos.resources
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Menu.resources
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Métodos_de_pago.resources
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Pacientes.resources
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Personal_de_apoyo.resources
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Properties.Resources.resources
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.RegistrarUsuario.resources
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.Tratamientos.resources
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.csproj.GenerateResource.cache
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.AssemblyInfoInputs.cache
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.AssemblyInfo.cs
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.csproj.CoreCompileInputs.cache
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.dll
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\refint\proyectofinalcruds.dll
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.pdb
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.genruntimeconfig.cache
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\ref\proyectofinalcruds.dll
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyectofinalcruds.csproj.AssemblyReference.cache
+C:\Users\fr561\Downloads\proyectofinalcruds\proyectofinalcruds\proyectofinalcruds\obj\Debug\net8.0-windows\proyecto.811BA52F.Up2Date
